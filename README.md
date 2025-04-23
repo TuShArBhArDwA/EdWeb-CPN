@@ -75,7 +75,7 @@ EduHub/<br>
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT](/LICENSE) License.
 
 ## Connect with Me
 
