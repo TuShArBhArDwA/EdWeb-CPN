@@ -1,38 +1,89 @@
-# EdWeb-CPN
+# EduHub
+![image](https://github.com/user-attachments/assets/ded3fba8-920d-4e6f-b0b8-d420fd726ab7)
+
+EduHub is an educational platform designed for students and teachers, offering a user-friendly interface for managing courses, teacher profiles, and educational content. It allows students to view courses, access educational playlists, and manage their profiles, while teachers can manage courses and their profiles.
 
 ## Table of Contents
-- [About](#about)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Folder Structure](#folder-structure)
-- [Setup Instructions](#setup-instructions)
-- [Contributing](#contributing)
 
-## About
-EdWeb-CPN is a web-based platform designed to facilitate online education. It offers interactive features like course listings, teacher profiles, and user registration for both students and teachers. The project demonstrates a complete educational web system with dynamic functionalities for managing courses and user profiles, created using HTML, CSS, and JavaScript.
+1. [Features](#features)
+2. [Tech Stack](#tech-stack)
+3. [Project Structure](#project-structure)
+4. [Installation](#installation)
+5. [How to Use](#how-to-use)
+6. [Contributing](#contributing)
+7. [License](#license)
+8. [Connect with Me](#connect-with-me)
 
 ## Features
-- User registration and login
-- Course management and viewing
-- Teacher profiles and teacher management
-- Playlist for educational content
-- Profile and account management for students and teachers
 
-## Technologies Used
-- HTML
-- CSS
-- JavaScript
+- **User Registration and Login:** Secure registration and login system for students and teachers.
+- **Course Management:** Teachers can create and manage courses; students can view and enroll in them.
+- **Teacher Profiles:** Teachers can create and manage their profiles, showcasing their expertise and courses.
+- **Educational Playlist:** A playlist feature to organize and display educational content for easy access.
+- **Profile and Account Management:** Both students and teachers can manage their profiles and account details.
 
-## Folder Structure
-- `css/`: Contains all the CSS files for styling the pages
-- `images/`: Folder with image assets used in the project
-- `js/`: Contains all JavaScript files for functionality
-- `.html`: The main HTML files for different pages like `home.html`, `about.html`, `login.html`, `register.html`, etc.
+## Tech Stack
 
-## Setup Instructions
-1. Clone the repository: 
+- **HTML:** Structure of web pages.
+- **CSS:** Styling of pages for a clean and modern look.
+- **JavaScript:** Functionality for interactive features like login, course management, and playlist viewing.
+
+## Project Structure
+
+EduHub/<br>
+│<br>
+├── css/<br>
+│   └── styles.css          # Main CSS file for styling<br>
+│<br>
+├── images/<br>
+│   └── (all image assets)  # Folder with image assets<br>
+│<br>
+├── js/<br>
+│   └── app.js              # Main JavaScript file for functionality<br>
+│<br>
+├── home.html               # Home page<br>
+├── about.html              # About page<br>
+├── login.html              # Login page<br>
+├── register.html           # Registration page<br>
+└── (additional HTML pages)<br>
+
+
+## Installation
+
+1. Clone the repository:
    ```bash
-   git clone https://github.com/TuShArBhArDwA/EdWeb-CPN.git
-2. Open the index.html file in your browser to view the website.
+   git clone https://github.com/TuShArBhArDwA/EduHub.git
+2. Open the project folder:
+   ```bash
+   cd eduHub
+3. Open the `home.html` file in your browser to view the project.
+
+## How to Use
+
+1. **User Registration:** Go to the `register.html` page to create a new account. Fill in the required details and submit the form.
+2. **Login:** Use the `login.html` page to log in with your credentials.
+3. **View Courses:** Once logged in, browse through the available courses and enroll in them.
+4. **Teacher Profile Management:** Teachers can manage their profiles by editing information in the profile section.
+
 ## Contributing
-Feel free to fork the repository, make changes, and create a pull request to contribute to the project. If you have any suggestions, issues, or feature requests, please feel free to open an issue on GitHub.
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/your-feature`).
+3. Make your changes and commit them (`git commit -am 'Add new feature'`).
+4. Push to the branch (`git push origin feature/your-feature`).
+5. Open a pull request.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Connect with Me
+
+Feel free to reach out for any queries or collaboration opportunities!
+
+- **T-Bot:** [🤖 Meet T-Bot & discover my work](https://t-bot-blush.vercel.app/)
+- **PortFolio:** [PortFolio](https://tushar-bhardwaj.vercel.app/)
+- **Connect 1:1** - [Let's Connect](https://topmate.io/tusharbhardwaj)
+- **LinkedIn:** [Tushar Bhardwaj](https://www.linkedin.com/in/bhardwajtushar2004)
+- **GitHub:** [Tushar Bhardwaj](https://github.com/TuShArBhArDwA)
+- **Email:** tusharbhardwaj2617@gmail.com
